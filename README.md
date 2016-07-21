@@ -47,3 +47,7 @@ From kernel shell, you can now access to your dropbox:
 ```c
 -> ls "/dropbox/root"
 ```
+
+## Known Issues
+
+This library is in BETA mode and still has some issues.
