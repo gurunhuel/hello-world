@@ -8,7 +8,7 @@
 #include <vxWorks.h>
 #include <dropbox.h>
 #include <stdio.h>
-#include <stdLib.h>
+#include <stdlib.h>
 #include <stdio.h>
 #include "drbFsLib.h"
 
